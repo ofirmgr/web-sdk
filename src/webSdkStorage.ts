@@ -1,0 +1,3 @@
+interface WebSdkStorage {
+    lastInitTimestamp: number;
+}
